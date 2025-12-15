@@ -19,3 +19,18 @@
 10. **Sulphates**: Sulphates, often in the form of sulfur dioxide, are used in winemaking as a preservative and antimicrobial agent. They help prevent oxidation and microbial spoilage, contributing to the wine's stability and longevity. However, excessive levels of sulphates can lead to undesirable aromas and flavors, so their presence must be carefully managed.
 
 11. **Alcohol**: The alcohol content of wine contributes to its body, texture, and overall flavor profile. It influences the wine's warmth, mouthfeel, and perceived sweetness. The alcohol level is an important factor in defining the wine's style and can impact its aging potential.
+
+
+
+**There is a postive correlation between them.**
+
+
+**If the fixed acidity of a solution, such as wine, is increased, it can lead to a more tart or sour taste.
+ with increase in fixed acidity pH value also decrease.**
+ 
+**As the citric acid content increases, there is a general increase in fixed acidity. The pH level also appears to increase with the increase of both citric acid and fixed acidity.**
+
+
+**A legend on the right side indicates different colors corresponding to different pH levels: purple for 2.75, dark pink for 3.00, light pink for 3.25, very light pink for 3.50, even lighter pink for 3.75, and almost white for 4.00.**
+
+**Most data points are clustered between 0 to 0.4 citric acid and between approximately six and ten fixed acidity. There is an observable trend where an increase in citric acid correlates with an increase in fixed acidity.**
